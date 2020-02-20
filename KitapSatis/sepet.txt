@@ -1,0 +1,4 @@
+kitap2 yazar2 4.67
+kitap3 yazar3 12.56
+kitap2 yazar2 4.67
+OtostopçununGalaksiRehberi DouglasAdams 30.09
